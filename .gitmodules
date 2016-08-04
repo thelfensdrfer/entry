@@ -1,0 +1,12 @@
+[submodule "openface"]
+	path = openface
+	url = https://github.com/cmusatyalab/openface.git
+[submodule "opencv"]
+	path = opencv
+	url = https://github.com/opencv/opencv.git
+[submodule "dlib"]
+	path = dlib
+	url = https://github.com/davisking/dlib/
+[submodule "torch"]
+	path = torch
+	url = https://github.com/torch/distro.git
