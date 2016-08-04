@@ -17,3 +17,4 @@ Execute `setup.sh`
 * Execute `align.sh`
 * Execute `embed.sh`
 * Execute `train.sh`
+* Execute `classifier.sh PATH_TO_IMAGE` to identify the person
